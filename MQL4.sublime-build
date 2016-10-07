@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "\"C:\\Program Files (x86)\\FXCM MetaTrader 4\\metaeditor.exe\" /compile:\"$file\" /log:mq4.log",
+    "file_regex": "^\\s*(\\w\\:\\\\.]*)\\((\\d+),(\\d+)\\)",
+    "selector": "source.mq4",
+}
